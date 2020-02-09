@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/steakjs/static/css/main.44681a53.chunk.css",
+    "main.css": "/steakjs/static/css/main.644ab899.chunk.css",
     "main.js": "/steakjs/static/js/main.736f3e39.chunk.js",
     "main.js.map": "/steakjs/static/js/main.736f3e39.chunk.js.map",
     "runtime-main.js": "/steakjs/static/js/runtime-main.cf72f903.js",
@@ -8,16 +8,16 @@
     "static/js/2.e0a2e742.chunk.js": "/steakjs/static/js/2.e0a2e742.chunk.js",
     "static/js/2.e0a2e742.chunk.js.map": "/steakjs/static/js/2.e0a2e742.chunk.js.map",
     "index.html": "/steakjs/index.html",
-    "precache-manifest.a3286858d00b7888281de139d51c2f20.js": "/steakjs/precache-manifest.a3286858d00b7888281de139d51c2f20.js",
+    "precache-manifest.47dc468ea0c7df057d0dc5dce8cc1bc7.js": "/steakjs/precache-manifest.47dc468ea0c7df057d0dc5dce8cc1bc7.js",
     "service-worker.js": "/steakjs/service-worker.js",
-    "static/css/main.44681a53.chunk.css.map": "/steakjs/static/css/main.44681a53.chunk.css.map",
+    "static/css/main.644ab899.chunk.css.map": "/steakjs/static/css/main.644ab899.chunk.css.map",
     "static/js/2.e0a2e742.chunk.js.LICENSE.txt": "/steakjs/static/js/2.e0a2e742.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/steakjs/static/media/fish.0d7eac9d.jpg"
+    "static/media/App.css": "/steakjs/static/media/fish.bcabfd92.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.cf72f903.js",
     "static/js/2.e0a2e742.chunk.js",
-    "static/css/main.44681a53.chunk.css",
+    "static/css/main.644ab899.chunk.css",
     "static/js/main.736f3e39.chunk.js"
   ]
 }

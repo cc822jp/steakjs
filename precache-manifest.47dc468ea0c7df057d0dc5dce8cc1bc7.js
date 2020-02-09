@@ -1,11 +1,11 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "33b020683e43a53592a22d2b913b57d2",
+    "revision": "23503cddaf131e3083e9a3dbf5637a59",
     "url": "/steakjs/index.html"
   },
   {
-    "revision": "4b51790ba30a0bb28348",
-    "url": "/steakjs/static/css/main.44681a53.chunk.css"
+    "revision": "e9f7bd75c5ac5776800c",
+    "url": "/steakjs/static/css/main.644ab899.chunk.css"
   },
   {
     "revision": "36731f39f4790f1ca5c7",
@@ -16,7 +16,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steakjs/static/js/2.e0a2e742.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "4b51790ba30a0bb28348",
+    "revision": "e9f7bd75c5ac5776800c",
     "url": "/steakjs/static/js/main.736f3e39.chunk.js"
   },
   {
@@ -24,7 +24,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/steakjs/static/js/runtime-main.cf72f903.js"
   },
   {
-    "revision": "0d7eac9d9cb2255832460a42a198e625",
-    "url": "/steakjs/static/media/fish.0d7eac9d.jpg"
+    "revision": "bcabfd9255314a88c0c36a24772ffa1f",
+    "url": "/steakjs/static/media/fish.bcabfd92.jpg"
   }
 ]);
